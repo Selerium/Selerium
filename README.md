@@ -91,8 +91,6 @@
 
 ## 📊 Github Stats
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Selerium's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Selerium&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -102,7 +100,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
 <br/>
 
