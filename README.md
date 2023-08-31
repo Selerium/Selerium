@@ -1,4 +1,4 @@
-<h1 align="center">Selerium<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Selerium</h1>
 <hr/>
 <h4 align="center">Aspiring Computer Science student. Interests in web development, graphics related programming, media, sound, art and a billion other fields. Extroverted, open-minded, enthusiastic, and adaptable to new experiences and people. Currently studying Computer Engineering and Network Engineering, C Programming, and Web Development (Angular).</h4>
 <br>
