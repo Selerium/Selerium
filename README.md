@@ -4,6 +4,17 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Selerium&label=Profile%20views&color=0e75b6&style=plastic" alt="Selerium" /> </p>
 
+## 🙋‍♀️ Let's Connect
+<p align="center">
+<!--   <a href="https://mywebsite.portfolio"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailto:johnadithya008@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Selerium"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/john-adithya-80b71017a"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<!-- 	<a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
+<!-- 	<a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
+	
+</p>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -100,15 +111,5 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
-<p align="center">
-<!--   <a href="https://mywebsite.portfolio"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:johnadithya008@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Selerium"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/john-adithya-80b71017a"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-<!-- 	<a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
-	
-</p>
 
 <hr/>
