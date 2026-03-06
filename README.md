@@ -1,5 +1,6 @@
 <h1 align="left">hi, i'm adi! great to meet you :)</h1>
 <h6>(and yes, i'm looking for a job)</h6>
+<h6>(please note: this README isn't complete yet - i'll get to it soon tho)</h6>
 <p align="justify">i'm a proficient software developer with 5+ years of experience in designing & developing websites and software projects. skilled in optimizing performance, improving SEO, and collaborating in teams to deliver high-quality projects. i possess strong leadership skills and am easily adaptable to any situation, with a passion for creativity that's reflected in intuitive UI/UX designs. i also work part-time in teaching & mentoring young teens. i've learnt and worked in unorthodox environments, and so i am a very versatile individual in teams and organizations. i'm interested in creative work, media, AI and advances in the software development field.</p>
 
 <h6>(please give me a job)</h6>
